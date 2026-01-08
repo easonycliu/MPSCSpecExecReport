@@ -1,0 +1,5 @@
+Protocal,Workload,Problem Size,Metric,Memory Usage (GB),Osprey,MAGE,OS,Unbounded,MAGE Unbounded
+CKKS,Sum,1572864,Calculation Time (s),192,95.6,52.2,1233.8,24.9,
+CKKS,Stat,524288,Calculation Time (s),192,209.8,612.5,1352.0,135.0,
+CKKS,Mvmul,768,Calculation Time (s),144,64.3,95.2,431.1,29.8,
+CKKS,Tmatmul,256,Calculation Time (s),73,1020.9,,,940.7,

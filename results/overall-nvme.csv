@@ -1,0 +1,11 @@
+Protocal,Workload,Problem Size,Metric,Memory Usage (GB),Osprey,MAGE,OS,Unbounded,MAGE Unbounded
+CKKS,Sum,1572864,Calculation Time (s),192,95.6,52.2,1233.8,24.9,
+CKKS,Stat,524288,Calculation Time (s),192,209.8,612.5,1352.0,135.0,
+CKKS,Mvmul,768,Calculation Time (s),144,178.3,360.0,1078.4,116.5,
+CKKS,Matmul,256,Calculation Time (s),73,6437.4,10238.0,3455.4,3318.6,
+CKKS,Tmatmul,256,Calculation Time (s),73,3775.2,10125.6,3403.4,3319.2,
+EMP-Toolkits,MSorted,4194304,Total Time (s),54,667.4,797.5,1211.7,643.1,765.3
+EMP-Toolkits,Sort,4194304,Total Time (s),108,13546.5,,15314.0,12174.0,
+EMP-Toolkits,Ljoin,4096,Total Time (s),80,467.5,136.3,2275.6,394.7,113.4
+EMP-Toolkits,Mvmul,12288,Total Time (s),79,3772.9,3528.8,6798.0,3374.4,3477.4
+EMP-Toolkits,Matmul,12288,Total Time (s),
